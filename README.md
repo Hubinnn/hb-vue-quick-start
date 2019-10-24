@@ -1,6 +1,6 @@
 # Extended Euclidean Algorithm
 
-##setup
+## setup
 
 下载文件并在当前README.md所在的文件夹下输入
 
